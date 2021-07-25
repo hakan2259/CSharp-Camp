@@ -1,0 +1,12 @@
+C:\Users\hakan22\CSharp-Camp\CampIntro\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+C:\Users\hakan22\CSharp-Camp\CampIntro\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\hakan22\CSharp-Camp\CampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+C:\Users\hakan22\CSharp-Camp\CampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\hakan22\CSharp-Camp\CampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.genruntimeconfig.cache
