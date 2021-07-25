@@ -1,0 +1,13 @@
+C:\Users\hakan22\CSharp-Camp\CampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.exe
+C:\Users\hakan22\CSharp-Camp\CampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.deps.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.dev.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.pdb
+C:\Users\hakan22\CSharp-Camp\CampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csproj.AssemblyReference.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfo.cs
+C:\Users\hakan22\CSharp-Camp\CampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.pdb
+C:\Users\hakan22\CSharp-Camp\CampIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.genruntimeconfig.cache
