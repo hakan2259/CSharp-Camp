@@ -1,0 +1,13 @@
+C:\Users\hakan22\CSharp-Camp\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+C:\Users\hakan22\CSharp-Camp\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+C:\Users\hakan22\CSharp-Camp\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.AssemblyReference.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+C:\Users\hakan22\CSharp-Camp\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+C:\Users\hakan22\CSharp-Camp\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache
