@@ -1,0 +1,12 @@
+C:\Users\hakan22\CSharp-Camp\CampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\hakan22\CSharp-Camp\CampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\hakan22\CSharp-Camp\CampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\hakan22\CSharp-Camp\CampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\hakan22\CSharp-Camp\CampIntro\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
