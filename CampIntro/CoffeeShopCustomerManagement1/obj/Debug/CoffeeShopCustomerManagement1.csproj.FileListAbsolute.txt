@@ -1,0 +1,7 @@
+C:\Users\hakan22\CSharp-Camp\CampIntro\CoffeeShopCustomerManagement1\obj\Debug\CoffeeShopCustomerManagement1.csproj.AssemblyReference.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\CoffeeShopCustomerManagement1\obj\Debug\CoffeeShopCustomerManagement1.csproj.CoreCompileInputs.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\CoffeeShopCustomerManagement1\bin\Debug\CoffeeShopCustomerManagement1.exe.config
+C:\Users\hakan22\CSharp-Camp\CampIntro\CoffeeShopCustomerManagement1\bin\Debug\CoffeeShopCustomerManagement1.exe
+C:\Users\hakan22\CSharp-Camp\CampIntro\CoffeeShopCustomerManagement1\bin\Debug\CoffeeShopCustomerManagement1.pdb
+C:\Users\hakan22\CSharp-Camp\CampIntro\CoffeeShopCustomerManagement1\obj\Debug\CoffeeShopCustomerManagement1.exe
+C:\Users\hakan22\CSharp-Camp\CampIntro\CoffeeShopCustomerManagement1\obj\Debug\CoffeeShopCustomerManagement1.pdb
