@@ -1,0 +1,16 @@
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\bin\Debug\net5.0\GameProjectDemo.exe
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\bin\Debug\net5.0\GameProjectDemo.deps.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\bin\Debug\net5.0\GameProjectDemo.runtimeconfig.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\bin\Debug\net5.0\GameProjectDemo.runtimeconfig.dev.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\bin\Debug\net5.0\GameProjectDemo.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\bin\Debug\net5.0\ref\GameProjectDemo.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\bin\Debug\net5.0\GameProjectDemo.pdb
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\obj\Debug\net5.0\GameProjectDemo.csproj.AssemblyReference.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\obj\Debug\net5.0\GameProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\obj\Debug\net5.0\GameProjectDemo.AssemblyInfoInputs.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\obj\Debug\net5.0\GameProjectDemo.AssemblyInfo.cs
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\obj\Debug\net5.0\GameProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\obj\Debug\net5.0\GameProjectDemo.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\obj\Debug\net5.0\ref\GameProjectDemo.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\obj\Debug\net5.0\GameProjectDemo.pdb
+C:\Users\hakan22\CSharp-Camp\CampIntro\GameProjectDemo\obj\Debug\net5.0\GameProjectDemo.genruntimeconfig.cache
