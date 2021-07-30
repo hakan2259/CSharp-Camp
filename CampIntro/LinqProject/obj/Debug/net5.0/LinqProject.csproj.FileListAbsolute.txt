@@ -1,0 +1,16 @@
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\bin\Debug\net5.0\LinqProject.exe
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\bin\Debug\net5.0\LinqProject.deps.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\bin\Debug\net5.0\LinqProject.runtimeconfig.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\bin\Debug\net5.0\LinqProject.runtimeconfig.dev.json
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\bin\Debug\net5.0\LinqProject.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\bin\Debug\net5.0\ref\LinqProject.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\bin\Debug\net5.0\LinqProject.pdb
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\obj\Debug\net5.0\LinqProject.csproj.AssemblyReference.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\obj\Debug\net5.0\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\obj\Debug\net5.0\LinqProject.AssemblyInfoInputs.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\obj\Debug\net5.0\LinqProject.AssemblyInfo.cs
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\obj\Debug\net5.0\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\obj\Debug\net5.0\LinqProject.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\obj\Debug\net5.0\ref\LinqProject.dll
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\obj\Debug\net5.0\LinqProject.pdb
+C:\Users\hakan22\CSharp-Camp\CampIntro\LinqProject\obj\Debug\net5.0\LinqProject.genruntimeconfig.cache
