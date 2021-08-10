@@ -13,3 +13,5 @@ C:\Users\hakan22\CSharp-Camp\MyFinalProject\DataAccess\obj\Debug\net5.0\DataAcce
 C:\Users\hakan22\CSharp-Camp\MyFinalProject\DataAccess\obj\Debug\net5.0\DataAccess.dll
 C:\Users\hakan22\CSharp-Camp\MyFinalProject\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
 C:\Users\hakan22\CSharp-Camp\MyFinalProject\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\hakan22\CSharp-Camp\MyFinalProject\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\hakan22\CSharp-Camp\MyFinalProject\DataAccess\bin\Debug\net5.0\Core.pdb
